@@ -142,7 +142,7 @@ function get_error_page($er_code_id, $err_msg='') {
 			font-size:14px;
 			font-weight:bold;
 			}
-			#nsa_banner { position:relative;top:5px;left:20px;float:center;}
+			#nsa_banner { position:relative;top:0px;left:20px;float:center;}
 			#alert_icon { position:relative;top:15px;left:20px;float:left; }
 			#alert_text { float:left;position:relative;top:25px;left:40px;width:400px; }
 		</style>
